@@ -1,12 +1,7 @@
 export default function App() {
   return (
     <div>
-      <div>
-        <h1>Hello</h1>
-      </div>
-      <div>
-        <h1>Hello</h1>
-      </div>
+      <h1 class="bg-primary p-2">Hello</h1>
     </div>
   );
 }
