@@ -1,10 +1,7 @@
-import  "./App.css"
-
-
 export default function App() {
   return (
     <div>
-      <div className="beautify">Hello</div>
+      <div style={{color:"black", backgroundColor:"royalblue"}}>Hello</div>
     </div>
   );
 }
